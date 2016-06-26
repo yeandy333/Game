@@ -12,5 +12,7 @@ public class Logic {
 		System.out.println("hello");
 		System.out.println("hi");
 		System.out.println("edit from github");
+		System.out.println("edit from github 2");
+
 	}
 }
