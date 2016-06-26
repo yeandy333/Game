@@ -14,6 +14,8 @@ public class Logic {
 		System.out.println("edit from github");
 		System.out.println("edit from github 2");
 		System.out.println("edit from eclipse");
+		
+		//added from github
 
 	}
 }
